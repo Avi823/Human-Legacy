@@ -3,7 +3,7 @@
    Settings → API → Project URL / anon public key
    ============================================================ */
 const SUPABASE_URL = 'https://apbmnwrodzmrfywswhti.supabase.co';       // e.g. https://abcxyz.supabase.co
-const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFwYm1ud3JvZHptcmZ5d3N3aHRpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODQ0MjE4NDUsImV4cCI6MjA5OTk5Nzg0NX0.q3951f5NBsCu2sFHVRJO1oBMjPdUPWTL3GFMX7lC2gU';
+const SUPABASE_ANON_KEY = 'sb_publishable_InJi3bG8QSmpI5hRJWsWiA_t7vMZDEZ';
 
 let supabase = null;
 let supabaseReady = false;
